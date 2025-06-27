@@ -42,8 +42,7 @@ use `minitrace` to:
 * debug resource leaks (open FDs not closed)
 * observe `mmap`/`brk`-based allocations
 * track file and pipe usage across your program
-* visualize system-level behavior of your 42 projects
-
+* visualize system-level behavior
 ---
 
 ## build
