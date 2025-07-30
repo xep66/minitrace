@@ -2,6 +2,7 @@
 
 lightweight syscall tracer for linux processes, focused on file descriptors and memory allocation.
 
+Note: I'll be writing up a blog documenting my motivation which I'll link here later.
 ---
 
 ## features
